@@ -1,0 +1,4 @@
+# this is to contain files we dont want to push to git-hub
+
+node_modules
+.env
